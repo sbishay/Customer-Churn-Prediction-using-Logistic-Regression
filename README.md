@@ -1,1 +1,1 @@
-# Customer-Churn-Predicction-using-Logistic-Regression
+# Customer-Churn-Prediction-using-Logistic-Regression
