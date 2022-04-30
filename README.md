@@ -9,23 +9,23 @@ This case requires trainees to develop a model for predicting customer churn at 
 
 # Life Cycle of Project
 
-1.Data Analysis
+# 1.Data Analysis
 
 Exploratory data analysis through understanding of data. 
 Looking at the distribution of dependent variable and also segregating categorical with numerical variable. 
 45% data having missing value
 
-2.Feature Engineering
+# 2.Feature Engineering
 
 Deleting the variables is not ideal, hence Imputing missing value by mean value treatment
 Outliers is capped with 5 and 95 percentile. 
 
-3.Feature Selection
+# 3.Feature Selection
 
 Significant categorical variables are selected through chi sq. test and stepwise regression. 
 For numerical variable, log and sqrt transformation is applied to make normally distributed.
 
-4.Model Building
+# 4.Model Building
 
 Building the final model through splitting the dataset into development and validation datasets.
 Predicting the total spend in both the datasets and creating top 10 decile to test model’s ability to predict the intended outcome.
